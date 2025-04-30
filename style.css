@@ -10,7 +10,7 @@ body {
 header {
   background: url('Logo.jpg') no-repeat center center fixed;
   background-size: cover;
-  color: blue;
+  color: black;
   padding: 1.5em;
   text-align: center;
 }
